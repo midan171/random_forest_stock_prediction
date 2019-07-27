@@ -3,3 +3,5 @@ A random forest algorithm, predicts class of the next day price, of a stock (up/
 
 To run:
 Run "random_forest.py", which calls "functions.py", which uses .csv files from "data" folder, to get the stocks data.
+
+(The parameterization of the model is not optimal, and the results are relatively weak, due to pattern protection :).....)
